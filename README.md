@@ -24,6 +24,8 @@ Run the client in another terminal:
 
 $./client
 
+You can read or write the hello.c file.
+
 If make is not available
 
 If you prefer not to use make or encounter further issues, you can manually compile each file using gcc. Here are the commands:
